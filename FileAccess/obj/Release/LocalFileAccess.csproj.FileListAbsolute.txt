@@ -1,0 +1,8 @@
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\FileAccess\bin\Release\FileAccess.dll.config
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\FileAccess\bin\Release\FileAccess.dll
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\FileAccess\bin\Release\FileAccess.pdb
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\FileAccess\bin\Release\Journalist.LanguageExtensions.dll
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\FileAccess\obj\Release\LocalFileAccess.csproj.CoreCompileInputs.cache
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\FileAccess\obj\Release\FileAccess.dll
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\FileAccess\obj\Release\FileAccess.pdb
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\FileAccess\obj\Release\LocalFileAccess.csprojResolveAssemblyReference.cache

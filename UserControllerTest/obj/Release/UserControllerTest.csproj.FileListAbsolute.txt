@@ -1,0 +1,16 @@
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\UserControllerTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\UserControllerTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\UserControllerTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\UserControllerTest\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\UserControllerTest\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\UserControllerTest\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\UserControllerTest\bin\Release\UserControllerTest.dll
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\UserControllerTest\bin\Release\UserControllerTest.pdb
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\UserControllerTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\UserControllerTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\UserControllerTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\UserControllerTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\UserControllerTest\obj\Release\UserControllerTest.csproj.CoreCompileInputs.cache
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\UserControllerTest\obj\Release\UserControllerTest.dll
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\UserControllerTest\obj\Release\UserControllerTest.pdb
+E:\LOD Projects\New Folder\ProjectLocis\WebApplication1\UserControllerTest\obj\Release\UserControllerTest.csprojResolveAssemblyReference.cache

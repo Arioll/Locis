@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FileAccess" GeneratedClassName="FileAccessSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Path" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:/Locis/Tracks/</Value>
+    </Setting>
+    <Setting Name="Extension" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.mp3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

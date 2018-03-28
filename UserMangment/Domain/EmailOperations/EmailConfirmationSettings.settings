@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UserMangment.Domain.EmailOperations" GeneratedClassName="EmailConfirmationSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RouteToConfirmEmail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://locis.lod-misis.ru/email/</Value>
+    </Setting>
+    <Setting Name="RouteToRestorePassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://locis.lod-misis.ru/password/</Value>
+    </Setting>
+    <Setting Name="RouteToChangeEmail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://locis.lod-misis.ru/newEmail/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

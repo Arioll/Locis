@@ -1,0 +1,476 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>ftp://85.143.104.47:8031</_PublishTargetUrl>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAyuzZDNTHxEeyw+2FAY//YQAAAAACAAAAAAAQZgAAAAEAACAAAABITnkX4ga8LXTHlONUXhCtqT7yanGbsL45z5YW4FfUTgAAAAAOgAAAAAIAACAAAACP4ooH5e8CKfCrrIv0jTl6Lfq0t5O56QesD9rZQImsQSAAAABQpb3Eth7QtEJnVDUzkTYgKKXa9MRHfsj8KrQt/qw/iEAAAADGniN/v926VlhrQeU+w4cGPDiB4R+wSAaBJYM058gS31TwIYgSPfBuV7VGdFBc10+Uh6QWsXd+ow8gpdv2EmkY</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>10/04/2017 15:27:14</publishTime>
+    </File>
+    <File Include="bin/AddFriendRequestMangment.dll">
+      <publishTime>10/24/2017 09:50:37</publishTime>
+    </File>
+    <File Include="bin/AddFriendRequestMangment.dll.config">
+      <publishTime>10/04/2017 23:53:42</publishTime>
+    </File>
+    <File Include="bin/AddFriendRequestMangment.pdb">
+      <publishTime>10/24/2017 09:50:37</publishTime>
+    </File>
+    <File Include="bin/AngleSharp.dll">
+      <publishTime>07/04/2017 12:05:00</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>12/18/2016 13:55:30</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>10/04/2017 15:27:14</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>10/30/2017 13:53:33</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>10/30/2017 13:53:33</publishTime>
+    </File>
+    <File Include="bin/Common.dll">
+      <publishTime>10/24/2017 09:50:35</publishTime>
+    </File>
+    <File Include="bin/Common.dll.config">
+      <publishTime>04/10/2017 22:33:42</publishTime>
+    </File>
+    <File Include="bin/Common.pdb">
+      <publishTime>10/24/2017 09:50:35</publishTime>
+    </File>
+    <File Include="bin/DataAccess.dll">
+      <publishTime>10/24/2017 09:50:36</publishTime>
+    </File>
+    <File Include="bin/DataAccess.dll.config">
+      <publishTime>10/15/2017 23:46:42</publishTime>
+    </File>
+    <File Include="bin/DataAccess.pdb">
+      <publishTime>10/24/2017 09:50:36</publishTime>
+    </File>
+    <File Include="bin/EmailService.dll">
+      <publishTime>10/24/2017 09:50:37</publishTime>
+    </File>
+    <File Include="bin/EmailService.dll.config">
+      <publishTime>04/10/2017 23:53:42</publishTime>
+    </File>
+    <File Include="bin/EmailService.pdb">
+      <publishTime>10/24/2017 09:50:37</publishTime>
+    </File>
+    <File Include="bin/FileAccess.dll">
+      <publishTime>10/23/2017 21:19:35</publishTime>
+    </File>
+    <File Include="bin/FileAccess.dll.config">
+      <publishTime>09/20/2017 23:05:40</publishTime>
+    </File>
+    <File Include="bin/FileAccess.pdb">
+      <publishTime>10/23/2017 21:19:35</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Core.dll">
+      <publishTime>09/02/2017 10:21:34</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.dll">
+      <publishTime>09/02/2017 10:21:36</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.YouTube.v3.dll">
+      <publishTime>09/02/2017 12:21:18</publishTime>
+    </File>
+    <File Include="bin/Iesi.Collections.dll">
+      <publishTime>10/04/2017 15:27:14</publishTime>
+    </File>
+    <File Include="bin/InvaitationMangment.dll">
+      <publishTime>10/24/2017 09:50:37</publishTime>
+    </File>
+    <File Include="bin/InvaitationMangment.dll.config">
+      <publishTime>04/10/2017 23:53:42</publishTime>
+    </File>
+    <File Include="bin/InvaitationMangment.pdb">
+      <publishTime>10/24/2017 09:50:37</publishTime>
+    </File>
+    <File Include="bin/Journalist.LanguageExtensions.dll">
+      <publishTime>10/13/2017 17:02:58</publishTime>
+    </File>
+    <File Include="bin/log4net-loggly.dll">
+      <publishTime>03/24/2017 12:32:18</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>05/02/2017 19:33:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>10/04/2017 15:27:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>10/04/2017 15:27:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>10/04/2017 15:27:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>10/04/2017 15:27:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>10/04/2017 15:27:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>10/04/2017 15:27:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>10/04/2017 15:27:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Core.dll">
+      <publishTime>04/10/2017 15:27:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.SystemWeb.dll">
+      <publishTime>04/10/2017 15:27:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.TelemetryCorrelation.dll">
+      <publishTime>10/04/2017 15:27:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>08/15/2017 13:12:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>04/05/2017 11:53:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>05/04/2017 11:53:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>04/05/2017 11:53:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>10/04/2017 15:27:14</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>06/17/2016 17:34:38</publishTime>
+    </File>
+    <File Include="bin/NAudio.dll">
+      <publishTime>05/03/2015 19:57:00</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/04/2017 15:27:14</publishTime>
+    </File>
+    <File Include="bin/NHibernate.dll">
+      <publishTime>10/10/2017 09:46:54</publishTime>
+    </File>
+    <File Include="bin/Ninject.dll">
+      <publishTime>10/05/2017 01:47:06</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>10/04/2017 15:27:14</publishTime>
+    </File>
+    <File Include="bin/PlaylistMangment.dll">
+      <publishTime>10/24/2017 09:50:38</publishTime>
+    </File>
+    <File Include="bin/PlaylistMangment.dll.config">
+      <publishTime>10/16/2017 14:00:47</publishTime>
+    </File>
+    <File Include="bin/PlaylistMangment.pdb">
+      <publishTime>10/24/2017 09:50:38</publishTime>
+    </File>
+    <File Include="bin/policy.2.0.taglib-sharp.config">
+      <publishTime>07/05/2012 13:32:12</publishTime>
+    </File>
+    <File Include="bin/policy.2.0.taglib-sharp.dll">
+      <publishTime>07/05/2012 13:32:12</publishTime>
+    </File>
+    <File Include="bin/protobuf-net.dll">
+      <publishTime>08/04/2017 16:51:16</publishTime>
+    </File>
+    <File Include="bin/Remotion.Linq.dll">
+      <publishTime>06/25/2017 21:43:38</publishTime>
+    </File>
+    <File Include="bin/Remotion.Linq.EagerFetching.dll">
+      <publishTime>06/26/2017 13:16:38</publishTime>
+    </File>
+    <File Include="bin/RoomHistoryMangment.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/RoomMangment.dll">
+      <publishTime>10/24/2017 09:50:37</publishTime>
+    </File>
+    <File Include="bin/RoomMangment.dll.config">
+      <publishTime>10/04/2017 23:53:42</publishTime>
+    </File>
+    <File Include="bin/RoomMangment.pdb">
+      <publishTime>10/24/2017 09:50:37</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.Process.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.DriveInfo.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Thread.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>07/28/2017 08:15:02</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Owin.Host.SystemWeb.resources.dll">
+      <publishTime>05/04/2017 12:03:38</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Owin.resources.dll">
+      <publishTime>05/04/2017 12:03:40</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Owin.Security.resources.dll">
+      <publishTime>05/04/2017 12:03:42</publishTime>
+    </File>
+    <File Include="bin/Serilog.dll">
+      <publishTime>04/07/2017 12:05:00</publishTime>
+    </File>
+    <File Include="bin/SimpleInjector.dll">
+      <publishTime>09/20/2017 21:49:52</publishTime>
+    </File>
+    <File Include="bin/SimpleInjector.Extensions.ExecutionContextScoping.dll">
+      <publishTime>02/05/2017 19:33:40</publishTime>
+    </File>
+    <File Include="bin/SimpleInjector.Integration.WebApi.dll">
+      <publishTime>09/20/2017 21:50:24</publishTime>
+    </File>
+    <File Include="bin/SongMangment.dll">
+      <publishTime>10/24/2017 09:50:37</publishTime>
+    </File>
+    <File Include="bin/SongMangment.dll.config">
+      <publishTime>10/16/2017 14:00:46</publishTime>
+    </File>
+    <File Include="bin/SongMangment.pdb">
+      <publishTime>10/24/2017 09:50:37</publishTime>
+    </File>
+    <File Include="bin/SoundCloud.API.Client.dll">
+      <publishTime>07/04/2017 12:05:00</publishTime>
+    </File>
+    <File Include="bin/SoundCloudDataAccess.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/SoundCloudDataAccess.dll.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/SoundCloudDataAccess.pdb">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/SoundFingerprinting.Audio.dll">
+      <publishTime>10/14/2017 12:53:22</publishTime>
+    </File>
+    <File Include="bin/SoundFingerprinting.Audio.NAudio.dll">
+      <publishTime>10/14/2017 12:53:22</publishTime>
+    </File>
+    <File Include="bin/SoundFingerprinting.dll">
+      <publishTime>10/14/2017 12:53:22</publishTime>
+    </File>
+    <File Include="bin/SoundFingerprinting.Infrastructure.dll">
+      <publishTime>10/14/2017 13:47:24</publishTime>
+    </File>
+    <File Include="bin/SoundFingerprinting.SQL.dll">
+      <publishTime>10/14/2017 13:47:24</publishTime>
+    </File>
+    <File Include="bin/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>07/19/2017 10:01:30</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>02/23/2017 23:33:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>04/07/2017 12:05:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>04/07/2017 12:05:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>02/23/2017 23:33:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>02/23/2017 23:33:16</publishTime>
+    </File>
+    <File Include="bin/taglib-sharp.dll">
+      <publishTime>05/07/2012 13:32:12</publishTime>
+    </File>
+    <File Include="bin/UserMangment.dll">
+      <publishTime>10/24/2017 09:50:38</publishTime>
+    </File>
+    <File Include="bin/UserMangment.dll.config">
+      <publishTime>10/16/2017 14:00:47</publishTime>
+    </File>
+    <File Include="bin/UserMangment.pdb">
+      <publishTime>10/24/2017 09:50:38</publishTime>
+    </File>
+    <File Include="bin/UserProfileMangment.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>10/30/2017 13:53:25</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.pdb">
+      <publishTime>10/30/2017 13:53:25</publishTime>
+    </File>
+    <File Include="ConnectionStrings.config">
+      <publishTime>04/10/2017 15:27:15</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/15/2017 23:43:09</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>10/30/2017 13:53:27</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.js">
+      <publishTime>01/10/2017 09:28:12</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.min.js">
+      <publishTime>01/10/2017 09:28:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.2.2.js">
+      <publishTime>01/10/2017 09:28:13</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.2.2.min.js">
+      <publishTime>01/10/2017 09:28:13</publishTime>
+    </File>
+    <File Include="settings.config">
+      <publishTime>02/23/2017 23:33:15</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/26/2017 09:40:41</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
